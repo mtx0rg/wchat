@@ -1,0 +1,54 @@
+[17-Sep-2023 20:20:58 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:20:58 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:22:59 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:22:59 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:23:15 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:23:15 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:23:15 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:23:15 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:24:11 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:24:11 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:24:43 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:24:43 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:28:08 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:28:08 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:28:17 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:28:17 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:28:27 America/New_York] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
+[17-Sep-2023 20:28:27 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php:8
+Stack trace:
+#0 /home/badlnykl/trustedlinks.site/whatsappchats-dev/api/index.php(20): require()
+#1 {main}
+  thrown in /home/badlnykl/trustedlinks.site/whatsappchats-dev/assets-php/classes.php on line 8
